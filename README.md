@@ -90,5 +90,4 @@ Exciting web projects with **tech companies or open-source communities**
 
 ---
 
-_“Strive for progress, not perfection.”_
 

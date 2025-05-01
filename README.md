@@ -30,14 +30,7 @@ Exciting web projects with **tech companies or open-source communities**
 ### 📫 How to reach me  
 - birmanchaudhary08@gmail.com
 
-### 👨‍💻 All of my projects are available at  
-- [My Portfolio](https://yourportfoliolink.com)
 
-### 📝 I regularly write articles on  
-- [My Blog](https://yourbloglink.com)
-
-### 📄 Know about my experiences  
-- [My Resume](https://yourresumelink.com)
 
 ### ⚡ Fun fact  
 - I can write code faster than I can explain it! 💻🚀😄
